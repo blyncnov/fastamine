@@ -123,12 +123,13 @@ ul {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+
 }
 
 .Profile__circle {
   width: 30px;
   height: 30px;
-  border-radius: 50%;
+  border-radius: 49.5%;
   background-color: white;
   color: white;
   display: flex;
